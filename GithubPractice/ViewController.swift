@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Hi All!")
         print("Hello")
         print("aaa")
+        print("Current branch")
     }
 
 
