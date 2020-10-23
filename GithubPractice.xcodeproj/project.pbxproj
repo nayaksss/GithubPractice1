@@ -13,6 +13,7 @@
 		23BDBF8E2542A5480063C563 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23BDBF8C2542A5480063C563 /* Main.storyboard */; };
 		23BDBF902542A54A0063C563 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23BDBF8F2542A54A0063C563 /* Assets.xcassets */; };
 		23BDBF932542A54A0063C563 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23BDBF912542A54A0063C563 /* LaunchScreen.storyboard */; };
+		23BDBF9B2542C5170063C563 /* NewFeatureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BDBF9A2542C5170063C563 /* NewFeatureViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		23BDBF8F2542A54A0063C563 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23BDBF922542A54A0063C563 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23BDBF942542A54A0063C563 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23BDBF9A2542C5170063C563 /* NewFeatureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFeatureViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				23BDBF862542A5480063C563 /* AppDelegate.swift */,
 				23BDBF882542A5480063C563 /* SceneDelegate.swift */,
 				23BDBF8A2542A5480063C563 /* ViewController.swift */,
+				23BDBF9A2542C5170063C563 /* NewFeatureViewController.swift */,
 				23BDBF8C2542A5480063C563 /* Main.storyboard */,
 				23BDBF8F2542A54A0063C563 /* Assets.xcassets */,
 				23BDBF912542A54A0063C563 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				23BDBF8B2542A5480063C563 /* ViewController.swift in Sources */,
 				23BDBF872542A5480063C563 /* AppDelegate.swift in Sources */,
+				23BDBF9B2542C5170063C563 /* NewFeatureViewController.swift in Sources */,
 				23BDBF892542A5480063C563 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
